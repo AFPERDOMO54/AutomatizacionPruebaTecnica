@@ -36,6 +36,6 @@ npm install cypress -D
 npx cypress open
 ``` 
 ## Preview
-![](/preview.jpg)
+![](/Demo_Cypress.jpg)
 
 
